@@ -5,6 +5,7 @@ body {
   text-align: center;
   font-family: "Press Start 2P", cursive;
   user-select: none;
+  color: rgb(55, 192, 201)
 }
 header {
   margin: 0 auto;
